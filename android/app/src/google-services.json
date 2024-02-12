@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "93535971954",
+    "firebase_url": "https://crud-app-20b99-default-rtdb.firebaseio.com",
+    "project_id": "crud-app-20b99",
+    "storage_bucket": "crud-app-20b99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93535971954:android:1b3e82c20ae592d19cb0eb",
+        "android_client_info": {
+          "package_name": "com.example.yew_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0DV-IuKtxzPog9OEW18Gxm98CSXDDBHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
